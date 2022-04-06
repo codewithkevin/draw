@@ -4,7 +4,7 @@ TRIANGLE = 3
 SQUARE = 4
 
 DRAW_LIST = ['triangle', 'square']
-EXIST_LIST = ['stop', 'no', 'nope', 'exit']
+EXIST_LIST = ['stop', 'n', 'nope', 'exit']
 
 
 class Tim(Turtle):
